@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+#bigdiv{
+    width: 500px;
+    display: inline;
+    flex-wrap: wrap;
+    margin: 0px;
+
+
+}
+.crtis{
+    display: inline-block;
+    border-style: solid;
+    width: 300px;
+    padding: 0px;
+    margin:0px;  
+    text-align: center;
+}
+.per{
+    
+    padding: 10px;
+    margin:0px; 
+    color: blue;
+}
+h1{
+    
+    padding: 10px;
+    margin:0px
+}
